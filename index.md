@@ -19,9 +19,14 @@ Some titles modified to help with the peer review process.
 Drafts available on request.
 
 1. Evidence and Incoherence (revise & resubmit)
-    - Abstract
+    
+    <details>
+<summary>- Abstract</summary>
+I argue against an ambitious account of irrationality of logical incoherence, which I labeled *Reductive Evidentialism.* This view seeks to explain away all logical/structural requirements of rationality in terms of responsiveness to evidence. I argue that this view has to be rejected because it lacks the resources to maintain one of the central assumptions that it needs, namely, *intra-*subjective uniqueness: i.e., that a given individual’s body of evidence cannot permit believing both $P$ and $\neg P$ .
+</details>
+
         
-        I argue against an ambitious account of irrationality of logical incoherence, which I labeled *Reductive Evidentialism.* This view seeks to explain away all logical/structural requirements of rationality in terms of responsiveness to evidence. I argue that this view has to be rejected because it lacks the resources to maintain one of the central assumptions that it needs, namely, *intra-*subjective uniqueness: i.e., that a given individual’s body of evidence cannot permit believing both $P$ and $\neg P$ .
+        
         
 2. [new] Coherence, Conflict, and Tragedy (under review)
     - Abstract
